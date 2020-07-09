@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LightTheme -->
+    <color name="GreenColorPrimary">#4CB3BF</color>
+    <color name="GreenColorPrimaryDark">#2E4E7D</color>
+    <color name="GreenColorAccent">#5E97AD</color>
+    <color name="GreenPrimaryText">#ffffff</color>
+    <color name="GreenButtonNormal">#5EA1AD</color>
+    <color name="GreenButtonHighlight">#81C1C7</color>
+    <color name="GreenButtonText">#004950</color>
+</resources>
